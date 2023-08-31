@@ -1,4 +1,4 @@
-![Sunset logo](./assests/sunset.png)
+![Sunset logo](./profile/assests/sunset.png)
 
 **Hello!**
 
